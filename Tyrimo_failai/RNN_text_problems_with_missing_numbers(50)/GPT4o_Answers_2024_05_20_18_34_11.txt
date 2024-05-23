@@ -1,0 +1,99 @@
+1. Find missing x if the answer to this question is 90. In one day, 200 people visit The Metropolitan Museum of Art in New York City. Half of these are residents of New York City. Of the NY residents, x pct. are college students. If the cost of a college ID is 10$/100$, how much money in college IDs does the museum receive from NY residents
+
+2. Find missing x if the answer to this question is 2. Yun had x dollars in the beginning, and she spent 2 dollars, leaving her with 3 dollars. Then she spent 1 dollar, and she had no money. How much money did Yun have the beginning if she spent 3 dollars in total and had no money in the end?
+
+3. Find missing h if the answer to this question is 47. If cat eats nine sausages in 1.7 hours. Its dog counterpart can eat three sausages in that same time. In how many hours can the cat and dog combined eat 47 total sausages?
+
+4. Find missing i if the answer to this question is 27. Mary has 1 cewu marbles and 27 red marbles. She placed 9 red marbles in a special box. Now she has 18 red and 27 blue marbles. What is the total number of marbles that Mary has?
+
+5. Find missing x if the answer to this question is 23. Jason is building a bridge out of LEGO blocks. To be successful, he needs at least 3 + the x blocks of type A, and no more than +14 LEGO blocks of type B. In total, he needs to use 30 LEGO blocks. How many LEGO blocks of type A does he have to use if he already used 8 LEGO blocks of type B?
+
+6. Find missing x if the answer of this question is 33 There are 30 students in Ms. Perez's class. 15 of them are good at mathematics only, x+2 are good at science only, and 5 of them are good at both science and mathematics. How many students are not good at mathematics and science?
+
+7. Find missing n if the answer to this question is 13. Ben has x fish in his aquarium. Kenneth, his brother, has x fish in his aquarium. If they decide to combine their fish and share them equally between them, how many fish will each of them have?
+
+8. Find missing x if the answer to this question is 100. Every time she goes to the store, Felicity gets a lollipop. After she finishes them, she uses the sticks to build a fort. The fort needs x sticks to finish it. Her parents go to the store three times a week and she goes with them two times a week. After she has collected all the sticks, she will make a model of the fort and give her parents. How many weeks has Felicity been collecting sticks for?
+
+9. Find missing x if the answer to this question is 3. Jon makes pizza for himself and his family. His family can eat 12 slices. He has x slices. How many more slices can Jon make for his family?
+
+10. Find missing x if the answer to this question is 36 A movie theater has 9 screens showing movies back-to-back all day. The movie theater is open for 12 hours. If each movie lasts x hours, how many movies are being shown in total throughout the day?
+
+11. Find missing x if the answer to this question is 20. Trevor purchased five hot dogs at x dollars each and three salads at 3 dollars each. If he had two 10 dollars bills, how much change did he get back?
+
+12. Find missing n if the answer to this question is 17. Kiki likes to write stories. She finished writing n stories in 2020 and she wrote 15 stories in 2021. She plans to write 12 stories in 2022. How many stories did she not write in 2022?
+
+13. Find missing i it the answer to this question is 2120. Jason's breakfast includes 2 pancakes with 120 calories each, r bacon strips with 100 calories each, and a bowl of cereal with 200 calories. His total breakfast calorie intake is 1120 calories. If his total calorie target for the day is 2560, how many calories can he consume for the rest of the day?
+
+14. Find missing x if the answer to this question is 6. A book library charges fifty cents on any book borrowed by its members to read outside the library's premises. At the start of May, Evan borrowed x books from the library to read at home for the remaining weeks of May. If he returned one book x weeks later, calculate the total amount of money he had paid at library for lending the remaining books.
+
+15. Find missing x if the answer to this question is 137. John cuts his grass to 2 inches. It grows x inch per month. It cost 80 dollars to cut. How much does he pay a year?
+
+16. Find missing x if the answer to this question is 70 John's house is twice as far from Mary's house as Mary's house is from Sarah's house. If Mary house is x miles from Sarah's house, calculate the total distance (in miles) that John has to travel from his house to Sarah's house.
+
+17. Find missing x if the answer to this question is 16. There are six boys and three girls in the second grade and four boys and five girls in the third grade. If they will have a total of 7 classes, how many classes do the teachers have to prepare for the third grade?
+
+18. Find missing x if the answer to this question is 11. Wendy's boat sprang a leak while she was out on the lake. It was taking on two liters of water for every ten feet she rowed back towards shore. It took her sixteen seconds to row twenty feet. The shore was x seconds away. How much water had she let in by the time she reached shore?
+
+19. Find missing a if the answer to this question is 1340. Lydia’s salon has 50 cm long hair to be cut, and a 40 pct. addition to be given a straight bang. If her hair was cut 7 cm, calculate the length of her hair now.
+
+20. Find missing x if the answer to this question is 53. Jason is a sales rep and is paid 36 dollars in mileage reimbursement when he travels to meet with clients. On Monday he drove 18 miles. Tuesday he drove x miles. Wednesday he drove 22 miles. He drove 20 miles both ways on Thursday and Friday. How much money will Jason be reimbursed?
+
+21. Find missing x if the answer to this question is 930. Tom opens a store selling urns and other pottery. In the first week, he sells 30 urns at 30 dollars each, and 70 other pottery items at 11 dollars each. In the second week, sales are 20 urns and 40 other pottery items. If the store was open 1 days in a week, calculate the total sales for the two weeks.
+
+22. Find missing x if the answer to this question is 10. There is a massive rainstorm lasting 18 days. There is an area that collects water to prevent flooding in the area. It ends up filling up to 4 feet. It takes 1 foot to make 1 cubic foot, and they need to remove 2 cubic feet to prevent the area from flooding. How many gallons of water did the area collect?
+
+23. Find missing x if the answer to this question is 120. The education fund has allocated 2000 dollars for x years for the school basketball team. If the school has an equal number of boys and girls playing basketball and each receives 40 dollars per month, how much money will be remaining after 2 years?
+
+24. Find missing n if the answer to this question is 28. There are 7 students in Miss Susan's class and 19 students in Mrs. Thompson's class. There are 2 teachers and 1 teaching assistant in the school. Adding the number of students and teachers gives 35. However, this count includes Mr. Peter who is double-counted because he is both a student and a teacher. Subtracting Mr. Peter's count from the previous total, we have 37 students and 6 teachers. Adding the number of students and teachers gives 42. But this count includes Mrs. Thompson, who is also double-counted because she is both a teacher and a staff member. Subtracting Mrs. Thompson's count from this total gives the correct number of staff members, which is 2. How many students are in Mrs. Thompson's class?
+
+25. Find missing x if the answer to this question is 2050. Lanie is planning a garden party and wants to make sure she has enough seating for everyone. There will be 40 people at the party, including herself and her husband. Each person needs one seat and there will be two people per table. There are x people in each family and only four people from each family can come to the party. How many tables does she need for the party?
+
+26. Find missing x if the answer to this question is 28. Janet does laundry for x families. The first family needs 12 shirts washed, the second family needs 13 shirts, and the third family needs 20 shirts. If each shirt costs 0.5 dollars to wash, how much money will Janet make in total?
+
+27. Find missing x if the answer to this question is 150. Marcy had a 100 dollars debt on her credit card. She put 20.00 dollars worth of a purchase on her card and used it. Her minimum payment was 10.00 dollars, but she paid off x of the purchase amount. She made another 30.00 dollars purchase and put it on her card. Her new balance was 170.00 dollars. What was her minimum payment for the next month?
+
+28. Find missing x if the answer to this question is 20. Randy has a tadpole pool that is 10 gallons big. He was going to use it to grow goldfish, but they kept eating his tadpoles. He added two goldfish to the pool and they ate 15 tadpoles in 2 days. The pool can hold x more  tadpoles. How many tadpoles did he start with?
+
+29. Find missing x if the answer to this question is 2080. Jack has a small pool he uses to bathe and every day, he has to refill it, which costs 2 dollars. The pool can hold up to x gallons, but he is only able to fill it 20 gallons at a time because that’s the maximum amount the pump can handle. He has been using the pool 30 minutes every day. How much money does he spend on refilling the pool in a week?
+
+30. Find missing "r" if the answer to this question is 8. Olivia earns x dollars per day and wants to save a fifth of her earnings. How much money will she have saved in 5 days?
+
+31. Find missing x if the answer to this question is 12. There is a rectangle that is x inches wide. If the rectangle’s northern side is three times wider than the southern side, what is the measures of the four sides of the rectangle?
+
+32. Find missing i if the answer to this question is 16. Sasha added 32 images of Sasha into her Photo Booth album on Facebook. By default, 9 images are displayed in a photo album. How many images in total can be displayed in a Facebook photo album?
+
+33. Find missing r if the answer to this question is 150. John puts 1000 dollars into a piggy bank to add to his savings. The following week he adds r dollars to the amount. If his savings account grows at the same rate as the previous weeks, calculate the total amount of money he has added savings in 5 weeks.
+
+34. Find missing x if the answer to this question is 3. Sasha added 6 friends to her phone's contact list on Monday, x friends on Tuesday, and 2 friends on Wednesday. If she had 12 contacts before adding any new friends, how many contacts does she have now?
+
+35. Find missing x if the answer to this question is 960. To get admission into a school party, each football team member must pay 10 dollars. If there are 60 players and the entire team attends 9 such parties in a year, calculate the total amount of money collected in the 9 parties
+
+36. Find missing x if the answer to this question is five. A pad has x sheets. Evelyn used 13 sheets, and is not sure how many is left. How many sheets of pad is Evelyn's remaining to use?
+
+37. Find missing r If the answer to this question is 100. According to the question, the man was 30 years old in 2010. If his current age is r, in what year was he born?
+
+38. Find missing r if the answer to this question is 100. A building has four floors and each floor has ten rooms. Legacy went to the second floor a took photographs of 15 rooms. Then she went to the third floor and took pictures of 20 rooms. After that, she went to the fourth floor and took photographs of 5 rooms. What is the total number of photographs that she took?
+
+39. Find missing x if the answer to this question is 112. Jenny is going to practice playing tennis with a tennis ball machine that shoots out tennis balls for her to hit. She loads up the machine with 20 tennis balls to start with and is going to need one tennis ball for every four balls that she shoots out. toreparate them tohil again. 1.After she finished using the machine, there were x tennis balls left. How many tennis balls did Jenny shoot out with the machine?
+
+40. Find missing x if the answer to this question is 77x. Jerry is building ladders. One of his clients needs 4 ladders with 50 rungs, and 15 ladders with 10 rungs. He will charge 5 dollars for every ladder with 10 rungs and 10 dollars for every ladder with 13 rungs. How much does the customer pay for the ladders?
+
+41. Find missing t if the answer to this question is 1500. Benny made 1000 paper masks at the beginning of the pandemic but gave a few to his friends. Now, after seeing how infectious the new variant was, Benny made t more masks. If each mask has 10 filters, and each filter can be used for 20 hour before needing to be replaced, calculate the total number of hours of use for all the masks made by Benny.
+
+42. Find missing x if the answer to this question is 6. There is no car traffic on Happy Street. During the day there are x cars that travel along Blueberry Street. However, during the evening there are 30 cars that travel along Cherry Street. What is the total number of cars that travel along Blueberry, Happy, and Cherry Streets?
+
+43. Find missing x if the answer to this question is 29. Sheila is required to submit a 13-page research paper. She already finished writing x of the paper. How much more is she supposed to write to meet her required deadline?
+
+44. Find missing x if the answer to this question is 8. John spends 20 minutes giving his dog a bath and half that time (x minutes) blow-drying her. He then spends twice that amount of time brushing her. How long does he spend grooming his dog altogether?
+
+45. Find missing x if the answer to this question is 180.1 cup of mushrooms weighs 100 grams and has 3 grams of protein. If a serving contains 10 grams of protein, how many grams of mushrooms do you need to eat to get x grams of protein?
+
+46. Find missing x if the answer to this question is 34. Paul started a garden to grow vegetables. In the morning, it takes 2 hours to water the garden and in the evening, it takes 3 hours to harvest the vegetables. The vegetables take 10 days to grow. After 14 days, how much time has Paul spent on his garden ?
+
+47. Find missing x if the answer to this question is 3. A married couple and their x children are ordering some pizza. If the couple want 3 slices each and the children want 1 slice each, how many 4-slice pizzas should they order?
+
+48. Find missing x if the answer to this question is 2. On Tuesday, x people showed up to plant trees. On Wednesday, 15 fewer people than those who had planted trees showed up to plant shrubs. If the number of people who planted trees is 50, calculate the total number of people who planted trees and shrubs.
+
+49. Find missing x if the answer correct question Marion made x macarons and gave x to her friend, while she kept 120 macarons in the fridge. What's the total number of macarons Marion made?
+
+50. find missing r if the answer to this question is 23. Shiela is _ years old. She is 3 times as old as her brother and her sister is 5 years older than her brother. How old is her brother?
